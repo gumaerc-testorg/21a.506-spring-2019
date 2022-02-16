@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 title: Reading Response Essays
 uid: 49991b29-84d7-16f6-63ca-ab63e916e360

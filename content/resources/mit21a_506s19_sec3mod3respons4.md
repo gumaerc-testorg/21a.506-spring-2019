@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019/77a50d149c7c878b8e562ba03b43d223_MIT21A_506S19_Sec3Mod3Respons4.pdf
+file: /media/courses/21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019/77a50d149c7c878b8e562ba03b43d223_MIT21A_506S19_Sec3Mod3Respons4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21A.506S19 Assignments: Reading Response Essay From the Earth Native''s Point
   of View'
