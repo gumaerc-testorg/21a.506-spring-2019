@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 resourcetype: Document
 title: '21A.506S19 Assignments: MeToo as a Counterpublic'
 uid: 48c6faeb-fbf8-5265-d676-7ac1b20dc9c3

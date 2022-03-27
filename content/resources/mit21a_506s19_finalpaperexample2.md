@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 resourcetype: Document
 title: '21A.506S19 Assignments: Ineffectiveness of Giving Money to MIT'
 uid: 7aa79a5c-e2dd-eebc-5847-5c3e986b76d4

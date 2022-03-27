@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 resourcetype: Document
 title: '21A.506S19 Assignments: The Base The Message TheTruth'
 uid: 43a061b1-0612-1ef9-df52-1e5646317eec

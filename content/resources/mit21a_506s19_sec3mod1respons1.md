@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 resourcetype: Document
 title: '21A.506S19 Assignments: Reading Response Essay The Politics of Deliberation'
 uid: 107e6461-2f2c-1e65-d728-88d2a2576a16

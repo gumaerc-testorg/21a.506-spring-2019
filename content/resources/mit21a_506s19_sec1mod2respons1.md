@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 resourcetype: Document
 title: '21A.506S19 Assignments: Reading Response Essay Argonauts 1'
 uid: 0329fdd0-5ec1-12f3-5c08-3ac1f7ec02b9

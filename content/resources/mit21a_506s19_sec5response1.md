@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 resourcetype: Document
 title: '21A.506S19 Assignments: Reading Response Essay Niceness in a Neoliberal Age'
 uid: f35a8024-c0b4-1b9b-d7d0-35d7c782c4a9
