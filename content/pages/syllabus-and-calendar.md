@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -87,7 +88,7 @@ Final paper
 
 {{< tableclose >}}
 
-For detailed information on the activities in the table above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the activities in the table above, see the {{% resource_link 66804546-8062-2b57-04b3-db13cbfc95bb "Assignments" %}} section.
 
 Texts
 -----
@@ -98,7 +99,7 @@ Clastres, Pierre. _Society Against the State: Essays in Political Anthropology_.
 
 Kockelman, Paul. _The Chicken and the Quetzal: Incommensurate Ontologies and Portable Values in Guatemala’s Cloud Forest._ Duke University Press Books, 2016. ISBN: 9780822360728. \[Preview with [Google Books](https://books.google.com/books?id=ivo8CwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-The other texts are articles and book chapters and can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+The other texts are articles and book chapters and can be found in the {{% resource_link 23173b2d-2ac9-bd6f-47a0-2d54b19168fe "Readings" %}} section.
 
 Citations
 ---------

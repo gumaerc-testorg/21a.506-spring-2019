@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019/7bc879830697dc6fdb1f35475a683f57_MIT21A_506S19_Sec4Mod3Respons1.pdf
+file: /courses/21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019/7bc879830697dc6fdb1f35475a683f57_MIT21A_506S19_Sec4Mod3Respons1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
