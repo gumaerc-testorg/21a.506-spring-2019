@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 66804546-8062-2b57-04b3-db13cbfc95bb
 title: Reading Response Essays
 uid: 49991b29-84d7-16f6-63ca-ab63e916e360
@@ -64,11 +69,11 @@ Irvine, Judith T. “Strategies of Status Manipulation in the Wolof Greeting.”
 {{< tdopen >}}
 
 
-[“Strategies of Status Manipulation in the Wolof Greeting” essay #1 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec1mod1respons1)
+{{% resource_link d242561e-62b0-50ca-ce34-b5a99dceeedc "“Strategies of Status Manipulation in the Wolof Greeting” essay #1 (PDF)" %}}
 
-[“Strategies of Status Manipulation in the Wolof Greeting” essay #2 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec1mod1respons2)
+{{% resource_link 8c33727d-a7a6-4e56-76d1-166d60658b60 "“Strategies of Status Manipulation in the Wolof Greeting” essay #2 (PDF)" %}}
 
-[“Strategies of Status Manipulation in the Wolof Greeting” essay #3 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec1mod1respons3)
+{{% resource_link 11be80de-d9a5-cfc4-4582-973017aaa2dc "“Strategies of Status Manipulation in the Wolof Greeting” essay #3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -101,11 +106,11 @@ Malinowski, Bronislaw. “The Natives of the Trobriand Islands.” Chapter 2 in 
 {{< tdopen >}}
 
 
-[_Argonauts of the Western Pacific_ essay #1 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec1mod2respons1)
+{{% resource_link 0329fdd0-5ec1-12f3-5c08-3ac1f7ec02b9 "_Argonauts of the Western Pacific_ essay #1 (PDF)" %}}
 
-[_Argonauts of the Western Pacific_ essay #2 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec1mod2respons2)
+{{% resource_link 4f526f56-804f-ddcb-e187-530e859dad60 "_Argonauts of the Western Pacific_ essay #2 (PDF)" %}}
 
-[_Argonauts of the Western Pacific_ essay #3 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec1mod2respons3)
+{{% resource_link 618f7333-33cc-82c7-3d4c-fd78af034a6e "_Argonauts of the Western Pacific_ essay #3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +151,7 @@ Bonilla, Yarimar, and Rosa Jonathan. “[#Ferguson: Digital Protest, Hashtag Eth
 {{< tdopen >}}
 
 
-[“#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec2mod1respons1)
+{{% resource_link daeba80e-75bb-606e-4854-19c6d5b88b2d "“#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States” essay (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -177,7 +182,7 @@ Silverstein, Michael. “[The ‘Message’ in the (Political) Battle](https://w
 {{< tdopen >}}
 
 
-[“The ‘Message’ in the (Political) Battle” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec2mod2respons1)
+{{% resource_link cd74f5c1-3918-8f4c-7c31-6fefd4dcaa45 "“The ‘Message’ in the (Political) Battle” essay (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -220,11 +225,11 @@ Boyer, Dominic, and Alexei Yurchak. “[AMERICAN STIOB: Or, What Late-Socialist 
 {{< tdopen >}}
 
 
-[“The Politics of Deliberation: _Qāt_ Chews as Public Spheres in Yemen” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod1respons1)
+{{% resource_link 107e6461-2f2c-1e65-d728-88d2a2576a16 "“The Politics of Deliberation: _Qāt_ Chews as Public Spheres in Yemen” essay (PDF)" %}}
 
-[“AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West” essay #1 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod1respons2)
+{{% resource_link ecbc1755-faaa-bda9-ddc5-45642a1d99d3 "“AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West” essay #1 (PDF)" %}}
 
-[“AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West” essay #2 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod1respons3)
+{{% resource_link 8c490734-594f-1058-3030-026480ce285c "“AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West” essay #2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -255,7 +260,7 @@ Geertz, Clifford. “Centers, Kings, and Charisma: Refections on the Symbolics o
 {{< tdopen >}}
 
 
-[“Centers, Kings, and Charisma: Refections on the Symbolics of Power” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod2respons1)
+{{% resource_link 29ee8ca6-70b9-2176-dccd-7e38d6caec84 "“Centers, Kings, and Charisma: Refections on the Symbolics of Power” essay (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -288,13 +293,13 @@ Lepselter, Susan. “[From the Earth Native’s Point of View: The Earth, the Ex
 {{< tdopen >}}
 
 
-[“Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State” essay #1 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod3respons1)
+{{% resource_link f1c12091-e4ec-c05f-5fc6-f222de022361 "“Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State” essay #1 (PDF)" %}}
 
-[“Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State” essay #2 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod3respons2)
+{{% resource_link f0a5a088-b1f3-9368-c695-c76d595f3e8a "“Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State” essay #2 (PDF)" %}}
 
-[“Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State” essay #3 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod3respons3)
+{{% resource_link 869f0496-f1fb-f618-13e4-62b8386fae76 "“Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State” essay #3 (PDF)" %}}
 
-[“From the Earth Native’s Point of View: The Earth, the Extraterrestrial and the Natural Ground of Home” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec3mod3respons4)
+{{% resource_link 77a50d14-9c7c-878b-8e56-2ba03b43d223 "“From the Earth Native’s Point of View: The Earth, the Extraterrestrial and the Natural Ground of Home” essay (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -337,11 +342,11 @@ Moyn, Samuel. “[Of Savagery And Civil Society: Pierre Clastres And The Transfo
 {{< tdopen >}}
 
 
-[_Society Against the State: Essays in Political Anthropology_ essay #1 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec4mod1respons1)
+{{% resource_link c3694d4d-9c4a-49b1-0983-4d275ffb0fea "_Society Against the State: Essays in Political Anthropology_ essay #1 (PDF)" %}}
 
-[_Society Against the State: Essays in Political Anthropology_ essay #2 (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec4mod1respons2)
+{{% resource_link 51dcc878-19a5-4b78-80b6-cef6ec588936 "_Society Against the State: Essays in Political Anthropology_ essay #2 (PDF)" %}}
 
-[“Of Savagery And Civil Society: Pierre Clastres And The Transformation Of French Political Thought” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec4mod1respons3)
+{{% resource_link 165d21bd-f472-ebcf-9d5a-59d1985cc3cf "“Of Savagery And Civil Society: Pierre Clastres And The Transformation Of French Political Thought” essay (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -374,11 +379,11 @@ Stierl, Maurice. “[A Fleet of Mediterranean Border Humanitarians](https://onli
 {{< tdopen >}}
 
 
-[_The Chicken and the Quetzal_: Chapter 1 essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec4mod2respons1)
+{{% resource_link 121657e8-b34b-7330-55ab-43cededdfe17 "_The Chicken and the Quetzal_: Chapter 1 essay (PDF)" %}}
 
-[_The Chicken and the Quetzal_: Chapter 4 essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec4mod2respons2)
+{{% resource_link fcd2a1cf-7392-f6e1-138e-3d9ca0e9fa2f "_The Chicken and the Quetzal_: Chapter 4 essay (PDF)" %}}
 
-[“A Fleet of Mediterranean Border Humanitarians” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec4mod2respons3)
+{{% resource_link 9c16138f-997e-ebb7-b9c6-96182b83c162 "“A Fleet of Mediterranean Border Humanitarians” essay (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -413,7 +418,7 @@ Berda,Yael. “Perpetual Emergency.” In _Living Emergency: Israel’s Permit 
 {{< tdopen >}}
 
 
-[_Living Emergency: Israel’s Permit Regime in the Occupied West Bank_ essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec4mod3respons1)
+{{% resource_link 7bc87983-0697-dc6f-db1f-35475a683f57 "_Living Emergency: Israel’s Permit Regime in the Occupied West Bank_ essay (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -454,7 +459,7 @@ Bramen, Carrie Tirado. “[Niceness in a Neoliberal Age](https://read.dukeupress
 {{< tdopen >}}
 
 
-[“Niceness in a Neoliberal Age” essay (PDF)]({{< baseurl >}}/resources/mit21a_506s19_sec5response1)
+{{% resource_link f35a8024-c0b4-1b9b-d7d0-35d7c782c4a9 "“Niceness in a Neoliberal Age” essay (PDF)" %}}
 
 
 {{< tdclose >}}
