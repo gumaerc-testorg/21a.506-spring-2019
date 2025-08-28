@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019/daeba80e75bb606e485419c6d5b88b2d_MIT21A_506S19_Sec2Mod1Respons1.pdf
+file: /ol-ocw-studio-app/courses/21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019/daeba80e75bb606e485419c6d5b88b2d_MIT21A_506S19_Sec2Mod1Respons1.pdf
 file_size: 77308
 file_type: application/pdf
 learning_resource_types:
